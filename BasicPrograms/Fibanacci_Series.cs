@@ -18,7 +18,7 @@
                 a = b; b = c;
             }
             Console.WriteLine();
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
